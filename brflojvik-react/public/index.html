@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="sv-SE">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-65290076-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-65290076-2');
+      window.gtag = gtag
+    </script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="theme-color" content="#000000">
+    <!--
+      manifest.json provides metadata used when your web app is added to the
+      homescreen on Android. See https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Brf Löjvik</title>
+  </head>
+  <body>
+    <noscript>
+      You need to enable JavaScript to run this app.
+    </noscript>
+    <div id="root">
+      <div class="background-wrap">
+          <div class="background">
+          </div>
+      </div>
+      <div class="loader"></div>
+  </div>
+  <style id="appStyle">
+    html,
+    body {
+      -webkit-user-select: none;
+      user-select: none;
+    }
+    .background-wrap {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .background {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+      background-color: #fff;
+      background-size: 100% 1000px;
+        background-repeat: no-repeat;
+    }
+    .loader {
+      position: fixed;
+      top: 35%;
+      left: -webkit-calc(50% - 30px);
+      left: calc(50% - 30px);
+      margin: 0;
+      width: 60px;
+      height: 60px;
+      text-align: center;
+      pointer-events: none;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    .loader::before {
+      content: "";
+      display: block;
+      width: 100%;
+      height: 100%;
+      border: 6px solid rgba(128, 128, 128, 0.4);
+      border-left-color: #000;
+      -webkit-animation: loader-spinn 800ms infinite linear;
+      animation: loader-spinn 800ms infinite linear;
+      will-change: transform;
+      transform-origin: center;
+      -webkit-border-radius: 50%;
+      border-radius: 50%;
+      -webkit-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+    @keyframes loader-spinn {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    @-webkit-keyframes loader-spinn {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+  <% for (var css in htmlWebpackPlugin.files.css) { %>
+    <link href="<%= htmlWebpackPlugin.files.css[css] %>" rel="stylesheet">
+  <% } %>
+  <script async src="<%= htmlWebpackPlugin.files.js[0] %>"></script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+.topNews__container {
+	background-color: #74ACA6;
+	padding: 1rem 0;
+	color: #FFF;
+}
+
+.topNews__container a {
+	color: #FFF;
+}
+
+.topNews__container a:hover {
+    color: #DEE;
+}
+
+.topNews__container a:focus {
+    color: #FFF;
+}
+
+.topNews__hr {
+	border-top: 1px solid #000;
+    width: 10rem;
+    margin-top: 0;
+    margin-bottom: 4rem;
+}

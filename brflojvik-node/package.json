@@ -1,0 +1,16 @@
+{
+  "name": "brflojvik-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "William Bergqvist",
+  "license": "ISC",
+  "dependencies": {
+    "contentful": "^7.14.4",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}

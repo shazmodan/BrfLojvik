@@ -1,0 +1,29 @@
+.board-members__profile {
+	height: 400px;
+}
+
+.board-members__profile-picture {
+	max-width: 200px;
+	height: auto;
+}
+
+.board-members__profile-name {
+	font-weight: 700;
+	margin-top: 16px;
+	margin-bottom: 2px;
+}
+
+.board-members__profile-hr {
+	width: 3rem;
+	border: 1px solid #000;
+	margin-top: 8px;
+    margin-bottom: 6px;
+}
+
+.board-members__profile-email {
+	text-decoration: underline;
+}
+
+.board-members__profile-responsibility {
+
+}

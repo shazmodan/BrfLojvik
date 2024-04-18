@@ -1,0 +1,2706 @@
+{
+  "sys": {
+    "id": null,
+    "linkType": null,
+    "type": "Array",
+    "revision": null,
+    "version": null,
+    "createdAt": null,
+    "createdBy": null,
+    "updatedAt": null,
+    "updatedBy": null,
+    "deletedAt": null,
+    "locale": null,
+    "contentType": null,
+    "space": null,
+    "publishedCounter": null,
+    "publishedVersion": null,
+    "publishedBy": null,
+    "publishCounter": null,
+    "firstPublishedAt": null,
+    "archivedAt": null,
+    "archivedVersion": null,
+    "archivedBy": null
+  },
+  "skip": 0,
+  "limit": 100,
+  "total": 27,
+  "items": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "55FhXVcNWoSyac6YsuOeeq",
+        "type": "Entry",
+        "createdAt": "2017-12-09T20:42:54.381Z",
+        "updatedAt": "2017-12-09T20:43:32.607Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Julafton 2017",
+      "date": "2017-12-24T12:00+01:00",
+      "description": "Fusce diam ex, faucibus aliquet sapien et, hendrerit vestibulum justo. Ut nec mi elit. Suspendisse interdum, neque ut porta pulvinar, ex dui rhoncus sem, eget hendrerit turpis nisi id dolor. Duis efficitur pellentesque magna, eu molestie tortor scelerisque quis. \n\nNullam laoreet augue ipsum, vitae lacinia libero rhoncus vitae. Proin scelerisque risus ut nulla fermentum fermentum. Maecenas vitae mi tristique, luctus ipsum non, rhoncus lectus. Mauris fermentum odio erat, nec ullamcorper neque faucibus eget.\n\nPraesent interdum sapien justo, nec convallis lectus ornare a. Phasellus luctus magna at nibh varius, ut pellentesque leo accumsan. Nunc fringilla, velit ac dapibus lacinia, nulla ex blandit urna, commodo tincidunt tellus enim nec sapien. Donec quis erat hendrerit, vehicula nulla nec, vulputate lorem. Vestibulum varius ultrices elit, eget elementum ex placerat vitae. Aenean quis dui at justo blandit vestibulum. Donec molestie, eros nec tincidunt finibus, sapien ligula venenatis orci, eu porta orci velit vel nisi."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "4ikBqovWHmugW4a6uEu4EU",
+        "type": "Entry",
+        "createdAt": "2017-12-03T20:09:25.41Z",
+        "updatedAt": "2017-12-03T20:31:11.984Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Magnus Engzell",
+      "responsibility": "Ordförande",
+      "email": "info@brflojvik.se",
+      "photo": {
+        "$id": "1mBy7T9ZfiuycEKMGe0M2m",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "1mBy7T9ZfiuycEKMGe0M2m",
+          "type": "Asset",
+          "createdAt": "2017-12-03T20:30:55.026Z",
+          "updatedAt": "2018-01-13T22:02:03.714Z",
+          "revision": 3,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "Profile Placeholder Male",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/1mBy7T9ZfiuycEKMGe0M2m/97064e50fa0d2c1ddfe139e4c360369f/profilePlaceholderMale.jpg",
+            "details": {
+              "size": 31447,
+              "image": {
+                "width": 600,
+                "height": 600
+              }
+            },
+            "fileName": "profilePlaceholderMale.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "2MyYXlqCdy0IIa8sw0eO4Q",
+        "type": "Entry",
+        "createdAt": "2017-12-14T06:03:32.143Z",
+        "updatedAt": "2018-01-13T16:39:52.888Z",
+        "revision": 3,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Garage och parkering",
+      "parentPage": {
+        "$id": "1wPyBpvSSs06A0Q8weY2O8",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "1wPyBpvSSs06A0Q8weY2O8",
+          "type": "Entry",
+          "createdAt": "2017-10-20T07:08:01.877Z",
+          "updatedAt": "2017-10-20T07:08:01.877Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "parentPage"
+            }
+          },
+          "locale": "sv-SE"
+        },
+        "heading": "Att bo i Löjvik"
+      },
+      "backgroundImage": {
+        "$id": "3sY7HLtV720A2WyKwMAuUE",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "3sY7HLtV720A2WyKwMAuUE",
+          "type": "Asset",
+          "createdAt": "2017-12-14T06:02:43.169Z",
+          "updatedAt": "2017-12-14T06:02:43.169Z",
+          "revision": 1,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "Parking garage",
+          "description": "Parking garage",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/3sY7HLtV720A2WyKwMAuUE/e6dc0471838f661b184c6ebc54610d22/parking_garage.png",
+            "details": {
+              "size": 802675,
+              "image": {
+                "width": 1920,
+                "height": 400
+              }
+            },
+            "fileName": "parking_garage.png",
+            "contentType": "image/png"
+          }
+        }
+      },
+      "icon": {
+        "$id": "3wCUq7qDS8MsKGeEsqoUCo",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "3wCUq7qDS8MsKGeEsqoUCo",
+          "type": "Asset",
+          "createdAt": "2017-10-20T07:10:28.387Z",
+          "updatedAt": "2018-01-13T16:39:34.206Z",
+          "revision": 2,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "Parking Icon",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/3wCUq7qDS8MsKGeEsqoUCo/8b147c38264835c11317beb6fee20f21/parkering_color.svg",
+            "details": {
+              "size": 1340,
+              "image": {
+                "width": 37,
+                "height": 37
+              }
+            },
+            "fileName": "parkering_color.svg",
+            "contentType": "image/svg+xml"
+          }
+        }
+      },
+      "shortDescription": "Lorem markdownum solis quorum. Sed debita Achilles increscere herculis toroque.",
+      "text": "# Cum sic sepulcris nisi artus inquit proles\n\n## Tutae ostendit\n\nLorem markdownum solis quorum. Sed debita Achilles increscere herculis toroque.\nOpus suam, rapida valuit, solo denique Iovi. Tua alter dextra candore. Namque\nspatio corona avem tantaeque si totum Hippocoonte Peleus conditus supervolats.\n\nMalas leto denos iam, loquendo sine, est lucentis alto gratia. Est Est quoque\ncrearit esset ne adfecit quoque sumimus **ostentare fertilis**.\n\n## Norat pro Dictynna instimulat vela adsiduae\n\nCum hastilibus tanta in navis vocando **se terraque celanda** sortemque in leges\npassim deae [coniunx](http://num.net/dementia.html). Muros mea iter concavat\nscit: altera malae, potentior, Non lassus plus lux pennisque annos. *Possim* sed\nadhuc, adspergine caput corpore lucum Cytoriaco postquam diu choreas.\n\n## Innectite iuppiter spatiosa multaque graviora\n\nCrinem ossibus albas, dei tibi et haud reperire fontis. Damnantem nova suoque\nconcilio superem popularis ingenio oris sed flectentem litus. Corpore evincitque\nposse: socium: quo sibilat seram spatiantes et referente removit per inopes\nlintea.\n\n> Quo dis Messenia; et ab *petis* certae nigro ubi praemia atlas se mentem clivo\n> mugitibus hic. Dicere post, illo **decimo opem**, nec ex ponto Paesti longas\n> gesserit fraterna, molimine. Iniecit ducat inter picto pietas, *quod*. Inopes\n> civilique tectus vobis instruxere eiectum matrique incidit atra iacentes velle\n> cum: quid tibi illos?\n\n## Verso et spectem\n\nNoxae cantusque et *Thoos Eryx* omina multa et placet Cycneia prosunt, tamen,\net, idque? Cum accipiter oracula. Erunt visa honor sanguine. Teque si cernis\nore. Limus dum.\n\nLacusque retinere locum senior pocula, unde illo sidere iunctior rogant: iam!\nTibi **aestu**, instar caelum, fidumque pulvere fulvaque; illum sine dato eras\nad elegit, quo. Idas induruit ad Peleus Cereri crocique solidorum pectora aris\nodere, te? Perpessae et veniam, intrata, hominum succrescere ergo doloris dedit\nest tanto, illa aquae bellica!"
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "ZCha5xtj6U4wKGoCcicga",
+        "type": "Entry",
+        "createdAt": "2017-12-23T12:04:21.467Z",
+        "updatedAt": "2017-12-23T12:04:21.467Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "searchPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Brf Löjvik 2 Från A till Ö",
+      "description": "Här hittar du information om det mesta som du som boende kan behöva veta. Du kan antingen scrolla igenom rubrikerna eller skriva in det du letar efter i sökfältet."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "5drGWyNRPyaSQiqOI2yq4s",
+        "type": "Entry",
+        "createdAt": "2017-10-24T04:46:14.728Z",
+        "updatedAt": "2017-12-02T21:07:05.982Z",
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Aktuellt",
+      "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+      "backgroundImage": {
+        "$id": "1aP5zQ9hzWwkQk88mi6W4s",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "1aP5zQ9hzWwkQk88mi6W4s",
+          "type": "Asset",
+          "createdAt": "2017-11-22T18:44:20.633Z",
+          "updatedAt": "2017-11-22T18:44:20.633Z",
+          "revision": 1,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "Skärgård",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/1aP5zQ9hzWwkQk88mi6W4s/50601d7abea057e30fc256a51a801b4e/riga.jpg",
+            "details": {
+              "size": 231772,
+              "image": {
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "fileName": "riga.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "icon": { "$ref": "3wCUq7qDS8MsKGeEsqoUCo" },
+      "text": "# Här har vi en h1\nOch lite text under\n\n## Här har vi en h2\nOch lite text under\n\n### Här har vi en h3\nOch lite text under\nPlus lite __fetstil__ och *kursivt*.\n\nHär kommer en lista\n\n- Osorterad punktlista\n- En till här\n- Och ännu en här\n\nMed en paragraf emellan.\n\n1. Sorterad lista\n2. Nummer 2\n3. Och nummer 3\n"
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "4ymPfpJ62IcEyyM2WeiyKa",
+        "type": "Entry",
+        "createdAt": "2017-12-03T20:46:57.338Z",
+        "updatedAt": "2017-12-03T20:46:57.338Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Jan Öhlund",
+      "responsibility": "Ekonomi",
+      "email": "info@brflojvik.se",
+      "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "28N573UHdiGSMCaqg44ImK",
+        "type": "Entry",
+        "createdAt": "2017-12-02T21:22:45.089Z",
+        "updatedAt": "2017-12-02T21:22:45.089Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "För mäklare",
+      "parentPage": {
+        "$id": "3N6kqhWtC0aw2MecmWKeom",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "3N6kqhWtC0aw2MecmWKeom",
+          "type": "Entry",
+          "createdAt": "2017-10-20T07:07:41.449Z",
+          "updatedAt": "2017-10-20T07:07:41.449Z",
+          "revision": 1,
+          "contentType": {
+            "sys": {
+              "type": "Link",
+              "linkType": "ContentType",
+              "id": "parentPage"
+            }
+          },
+          "locale": "sv-SE"
+        },
+        "heading": "Om föreningen"
+      },
+      "backgroundImage": {
+        "$id": "11X88PDuPEyQkEGq0WOYE4",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "11X88PDuPEyQkEGq0WOYE4",
+          "type": "Asset",
+          "createdAt": "2017-12-02T21:21:54.097Z",
+          "updatedAt": "2017-12-02T21:21:54.097Z",
+          "revision": 1,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "För mäklare bakgrundsbild",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/11X88PDuPEyQkEGq0WOYE4/ff7d35258219755c3a477020c55de98b/AZ-homes.jpg",
+            "details": {
+              "size": 207222,
+              "image": {
+                "width": 1920,
+                "height": 400
+              }
+            },
+            "fileName": "AZ-homes.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dignissim mauris purus, eu dignissim nibh sollicitudin non. Nunc mattis quam ut nibh dapibus, quis elementum erat viverra. Aenean aliquet, nisi quis placerat feugiat, neque diam congue mi, ut dapibus lorem magna nec ligula. Phasellus eget ipsum ac odio blandit gravida. Nunc dapibus dolor sed arcu volutpat pellentesque. Curabitur pretium facilisis nibh sed maximus. Proin lobortis purus elit, eu convallis orci maximus gravida. Sed mollis libero et dictum laoreet. Cras neque elit, lobortis quis interdum sit amet, luctus eu risus. Nullam nisl leo, molestie eget massa at, pellentesque porta enim.\n\nQuisque dignissim, augue quis vehicula ornare, metus felis finibus tellus, et ullamcorper mi augue at mauris. Vivamus scelerisque ex ac magna rutrum laoreet. Integer lobortis ante magna, id molestie nisl vulputate in. Praesent et sollicitudin lorem. Vivamus eleifend pulvinar malesuada. Donec sit amet tempus purus, at consectetur turpis. Nullam congue neque eu dolor tincidunt, in cursus urna gravida. Nam id viverra nulla. Phasellus condimentum facilisis efficitur. Vivamus feugiat dapibus risus id porta.\n\nVestibulum interdum enim quis tortor scelerisque tincidunt. Morbi non turpis sed erat congue cursus. Sed eu metus id libero cursus consectetur. Etiam eu nulla sollicitudin orci lacinia sodales aliquam at tellus. Donec vestibulum ligula porttitor, porta metus porta, viverra ante. Nam mi quam, euismod sit amet lectus eget, posuere scelerisque leo. Proin lacus diam, feugiat rutrum diam eget, consectetur fringilla nisl. Donec tempus sollicitudin est, at tincidunt justo vehicula vel. In scelerisque eros sit amet bibendum auctor. Suspendisse et tellus turpis. Fusce a mi non nisi aliquet ultrices feugiat at ante."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "7knsvPDozeS6YscKmGcckK",
+        "type": "Entry",
+        "createdAt": "2017-12-03T20:45:24.386Z",
+        "updatedAt": "2017-12-03T20:54:08.637Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Joachim Green",
+      "responsibility": "Lekplatsen",
+      "email": "info@brflojvik.se",
+      "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "6rQKrrBRo4ASYg8AiC26MG",
+        "type": "Entry",
+        "createdAt": "2017-10-24T04:43:55.726Z",
+        "updatedAt": "2017-11-16T14:53:04.333Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Våra stadgar",
+      "parentPage": { "$ref": "3N6kqhWtC0aw2MecmWKeom" },
+      "text": "Här kan vi lista lite stadgar..."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1AvuG9ZDmE0mEQ2OAQ2qWE",
+        "type": "Entry",
+        "createdAt": "2017-12-02T21:46:51.569Z",
+        "updatedAt": "2017-12-07T21:19:31.073Z",
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "William Bergqvist",
+      "responsibility": "Information och webb",
+      "email": "info@brflojvik.se",
+      "photo": {
+        "$id": "2b7FBJsMfCMOgcoGsICIa0",
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "hes48hb68fw8"
+            }
+          },
+          "id": "2b7FBJsMfCMOgcoGsICIa0",
+          "type": "Asset",
+          "createdAt": "2017-12-07T20:05:58.431Z",
+          "updatedAt": "2017-12-07T20:05:58.432Z",
+          "revision": 1,
+          "locale": "sv-SE"
+        },
+        "fields": {
+          "title": "William Bergqvist",
+          "description": "profile",
+          "file": {
+            "url": "//images.contentful.com/hes48hb68fw8/2b7FBJsMfCMOgcoGsICIa0/fa4cefc6ab1e70a0c9bac1b7bd259a91/William_Bergqvist._600x600jpg.jpg",
+            "details": {
+              "size": 215976,
+              "image": {
+                "width": 600,
+                "height": 600
+              }
+            },
+            "fileName": "William Bergqvist._600x600jpg.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1XT0SGJ5FuMCGoQ0K6yU2U",
+        "type": "Entry",
+        "createdAt": "2017-12-09T20:45:21.327Z",
+        "updatedAt": "2018-01-12T20:33:06.011Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Långafredag 2018",
+      "date": "2018-03-30T13:00+01:00",
+      "description": "In sodales ante dui, maximus imperdiet risus fringilla ut. Ut posuere felis ut rutrum scelerisque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam iaculis massa at dignissim consequat. Pellentesque vehicula, erat ac euismod facilisis, diam sapien pellentesque turpis, et facilisis turpis orci quis tortor. \n\nSuspendisse imperdiet turpis a consectetur malesuada. Mauris vehicula aliquam condimentum. Maecenas commodo neque ut hendrerit ultricies. Donec sodales luctus mi, id congue nibh consequat eget. Aenean nec pretium felis. Aenean sit amet dui arcu. Praesent cursus odio a scelerisque posuere. Nam ac convallis tortor."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1gm0nft7XO0AuIGYM2oSsi",
+        "type": "Entry",
+        "createdAt": "2017-12-02T21:16:57.708Z",
+        "updatedAt": "2017-12-17T21:11:30.937Z",
+        "revision": 5,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "startPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Startsida",
+      "navigationLinks": [
+        {
+          "$id": "4LUauliDk4K0seMwEWMICs",
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hes48hb68fw8"
+              }
+            },
+            "id": "4LUauliDk4K0seMwEWMICs",
+            "type": "Entry",
+            "createdAt": "2017-12-02T21:47:49.8Z",
+            "updatedAt": "2018-01-13T22:12:35.826Z",
+            "revision": 8,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "boardMembers"
+              }
+            },
+            "locale": "sv-SE"
+          },
+          "heading": "Styrelsen",
+          "redSubHeading": "2017/2018",
+          "text": "Bostadsrättsföreningens styrelse utses av årsstämman. Vill du kontakta styrelsen gör du det bäst genom\natt mejla direkt till den styrelseledamot som ansvarar för det du har frågor kring. Det går också bra att klicka\npå länken ”Kontakta styrelsen” i sidhuvudet så kan du skicka in din fråga direkt via hemsidan.",
+          "activeBoardMembers": [
+            { "$ref": "4ikBqovWHmugW4a6uEu4EU" },
+            { "$ref": "4ymPfpJ62IcEyyM2WeiyKa" },
+            {
+              "$id": "POPLZaKseqQ8oWeIsCUgI",
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "hes48hb68fw8"
+                  }
+                },
+                "id": "POPLZaKseqQ8oWeIsCUgI",
+                "type": "Entry",
+                "createdAt": "2017-12-03T20:44:02.621Z",
+                "updatedAt": "2017-12-03T20:44:02.621Z",
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "boardMember"
+                  }
+                },
+                "locale": "sv-SE"
+              },
+              "name": "Maria Sundström",
+              "responsibility": "Markansvarig",
+              "email": "info@brflojvik.se",
+              "photo": {
+                "$id": "m8LF6Kkfv2e2UuiwGw0mU",
+                "sys": {
+                  "space": {
+                    "sys": {
+                      "type": "Link",
+                      "linkType": "Space",
+                      "id": "hes48hb68fw8"
+                    }
+                  },
+                  "id": "m8LF6Kkfv2e2UuiwGw0mU",
+                  "type": "Asset",
+                  "createdAt": "2017-12-03T20:43:52.728Z",
+                  "updatedAt": "2018-01-13T22:01:57.051Z",
+                  "revision": 2,
+                  "locale": "sv-SE"
+                },
+                "fields": {
+                  "title": "Profile Placeholder Female",
+                  "file": {
+                    "url": "//images.contentful.com/hes48hb68fw8/m8LF6Kkfv2e2UuiwGw0mU/532ee048bd5b3b56df1acb147a8e0a42/profilePlaceholderFemale.jpg",
+                    "details": {
+                      "size": 17268,
+                      "image": {
+                        "width": 600,
+                        "height": 600
+                      }
+                    },
+                    "fileName": "profilePlaceholderFemale.jpg",
+                    "contentType": "image/jpeg"
+                  }
+                }
+              }
+            },
+            { "$ref": "7knsvPDozeS6YscKmGcckK" },
+            { "$ref": "1AvuG9ZDmE0mEQ2OAQ2qWE" },
+            {
+              "$id": "1SpvZu3ouU42yAeWQ2gsyc",
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "hes48hb68fw8"
+                  }
+                },
+                "id": "1SpvZu3ouU42yAeWQ2gsyc",
+                "type": "Entry",
+                "createdAt": "2018-01-13T15:56:23.965Z",
+                "updatedAt": "2018-01-13T15:56:23.966Z",
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "boardMember"
+                  }
+                },
+                "locale": "sv-SE"
+              },
+              "name": "Magnus Ivar Nordbäck",
+              "responsibility": "Suppleant",
+              "email": "info@brflojvik.se",
+              "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+            },
+            {
+              "$id": "bMOfEDVJnicGOaU6Cy204",
+              "sys": {
+                "space": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "Space",
+                    "id": "hes48hb68fw8"
+                  }
+                },
+                "id": "bMOfEDVJnicGOaU6Cy204",
+                "type": "Entry",
+                "createdAt": "2018-01-13T15:56:54.591Z",
+                "updatedAt": "2018-01-13T15:56:54.591Z",
+                "revision": 1,
+                "contentType": {
+                  "sys": {
+                    "type": "Link",
+                    "linkType": "ContentType",
+                    "id": "boardMember"
+                  }
+                },
+                "locale": "sv-SE"
+              },
+              "name": "Sven Göran Rundlöf",
+              "responsibility": "Suppleant",
+              "email": "info@brflojvik.se",
+              "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+            }
+          ],
+          "parentPage": { "$ref": "3N6kqhWtC0aw2MecmWKeom" }
+        },
+        { "$ref": "28N573UHdiGSMCaqg44ImK" }
+      ],
+      "goodToKnowLinks": [
+        {
+          "$id": "5dYY24VuVqEsOeiyWMcwoS",
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hes48hb68fw8"
+              }
+            },
+            "id": "5dYY24VuVqEsOeiyWMcwoS",
+            "type": "Entry",
+            "createdAt": "2017-12-14T17:00:03.462Z",
+            "updatedAt": "2018-01-13T16:35:39.901Z",
+            "revision": 4,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "informationPage"
+              }
+            },
+            "locale": "sv-SE"
+          },
+          "heading": "Vår utemiljö",
+          "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+          "backgroundImage": {
+            "$id": "3YvYyIjVoA46oGUmQogKiS",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "3YvYyIjVoA46oGUmQogKiS",
+              "type": "Asset",
+              "createdAt": "2017-12-14T16:53:46.2Z",
+              "updatedAt": "2017-12-14T16:53:46.2Z",
+              "revision": 1,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Outdoors",
+              "description": "Outdoors",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/3YvYyIjVoA46oGUmQogKiS/e4d2357c3245caf348c6dbf9cac34f94/outdoors.jpg",
+                "details": {
+                  "size": 410606,
+                  "image": {
+                    "width": 1920,
+                    "height": 400
+                  }
+                },
+                "fileName": "outdoors.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "icon": {
+            "$id": "1lgW46m3yUyY8uSmiIak8U",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "1lgW46m3yUyY8uSmiIak8U",
+              "type": "Asset",
+              "createdAt": "2017-12-14T16:57:24.801Z",
+              "updatedAt": "2018-01-13T16:34:08.499Z",
+              "revision": 2,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Outside icon",
+              "description": "Outside icon",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/1lgW46m3yUyY8uSmiIak8U/32a2ad2b202f51d99a93ed8580a7697d/utemiljo_color.svg",
+                "details": {
+                  "size": 1746,
+                  "image": {
+                    "width": 37,
+                    "height": 37
+                  }
+                },
+                "fileName": "utemiljo_color.svg",
+                "contentType": "image/svg+xml"
+              }
+            }
+          },
+          "shortDescription": "Lorem markdownum dumque invocat, eversam visa est dea Cadme aristis.",
+          "text": "# Tum fervida patria\n\n## Saevit potestas venatu semimari fornace aristis\n\nLorem markdownum dumque invocat, eversam visa est dea Cadme aristis! *Terram me\nnam* dat est a fera Peneide me bella, mutilatae; postarum! Aves dum apri\nmontibus dubitas pavetque exercet ad unus temptat capillis nectare videt\nrelanguit toros furorem querenti abigitque, tergum. Nunc es idcirco Scythicis in\npares agmenque et iacet dat Nox. Sint referunt stirpe egit caerula; partibus\nsubiere munere et portabat mirabile ante ensis vocisque superest nemus\ndefenditur toroques?\n\nIactat respexit dentes tamen mundi, hic *dixit imber* mihi **leto** Lethes aera\naeno ignorant sed, linguaque. Retentos *est quondam pharetras*; domum fuit eadem\n*rarior* solidis, aquilonibus ergo? Et illis bimatrem, tegens in murmura\n**silvas tenuata**; ero suus iaculo petit animus utrumque si.\n\n## Post uno\n\nPuerique refert nec non aut velamina ultima dabat. Petisses diu ultima superbus\nconcita secuta laborum lugubriaque deae, supersint. Plenaque amor; tua illa\nsacra.\n\nPectora onus restantem quae detegit percaluit et fulmina invitusque, senectae\nEuagrum cupiens. Domus cupiens guttura excussum non vimque locutum adplauso\nfallit angues. Virgine neve, una nec undas temptamenta luget causaque adductaque\ntegumenque et pectora sonuere in pavent [parte](http://vobisquid.io/et.html),\nsilvamque, praecipue. Saevior infelix recessu non: suo volat erat; qui tua\npugnando aera; hos quantam inque! Squalentia nec vix ipsaque caput, nigrescere\nconata **radios** pulvereumque crura in hinc exacta pallentia mundi et.\n\n> Quique et est, addita dicta mollita lacertis lacerta nec. Nisi miratur terras!\n> Stramine pater Proximus tam manus ad quaesitique Rutulum sparsisque efficiet\n> Elide socium patrumque **sic capillis pectora** haesissem stagni! *Pavor\n> similisque* casus fontemque tollens *sedit*, in iramque barba cape,\n> **titubantis locus**.\n\n## Hirsuta ora conquesti rediit et successu populo\n\nSolent in diversa seque! Cum sit fuerit, *rictus dextera*. Ipsa nam auratam currum posse, ait adire devexo tibi?\n\n- Fletibus viro posuere\n- Potest poena fiunt imago fecit mulcebat falsae\n- Et sibi\n- Facitote superi\n\nIn urget habebant deos; siccis pondus Ligdo limumque caput amnis, esse erat\nantistita simulacraque velox potui. Vultus indagine bellum cucurri adspicit,\nexplorat dabimus aer tenera etsi femur, in et. Ille sed cornibus dixit carmine,\net! Ulli *addidit una bellum*, haustus arces, *flore aeraque* fluvialis Cyane\nsubiectos licet. Sit est una superum ramos subterque rerum *patrumque mihi*\nAmphiona."
+        },
+        { "$ref": "2MyYXlqCdy0IIa8sw0eO4Q" },
+        {
+          "$id": "4imDWU24QEWcGe88ooOqq8",
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hes48hb68fw8"
+              }
+            },
+            "id": "4imDWU24QEWcGe88ooOqq8",
+            "type": "Entry",
+            "createdAt": "2017-12-14T06:08:33.271Z",
+            "updatedAt": "2018-01-13T16:38:55.811Z",
+            "revision": 8,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "informationPage"
+              }
+            },
+            "locale": "sv-SE"
+          },
+          "heading": "Sopor och återvinning",
+          "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+          "backgroundImage": {
+            "$id": "4O2n5at0ecksAQWSy6EI6I",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "4O2n5at0ecksAQWSy6EI6I",
+              "type": "Asset",
+              "createdAt": "2017-12-14T06:06:23.83Z",
+              "updatedAt": "2017-12-14T06:06:23.83Z",
+              "revision": 1,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Recycling",
+              "description": "Recycling",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/4O2n5at0ecksAQWSy6EI6I/d8f1b3c7f54aa80ce83193d4698fec55/recycling.jpg",
+                "details": {
+                  "size": 268128,
+                  "image": {
+                    "width": 1920,
+                    "height": 400
+                  }
+                },
+                "fileName": "recycling.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "icon": {
+            "$id": "5PwcTNyLGoMmeqSggeQyEY",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "5PwcTNyLGoMmeqSggeQyEY",
+              "type": "Asset",
+              "createdAt": "2017-12-14T06:07:57.368Z",
+              "updatedAt": "2018-01-13T16:38:40.705Z",
+              "revision": 2,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Garbage icon",
+              "description": "Garbage",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/5PwcTNyLGoMmeqSggeQyEY/1b37b85b1cf06d45dd1ea27e6de4eac5/sopor_color.svg",
+                "details": {
+                  "size": 858,
+                  "image": {
+                    "width": 37,
+                    "height": 37
+                  }
+                },
+                "fileName": "sopor_color.svg",
+                "contentType": "image/svg+xml"
+              }
+            }
+          },
+          "shortDescription": "Lorem markdownum habebat erraverit cum eiectum vocesque, neve generis ne.",
+          "text": "# Vela venae Medea circumfunditur occupat sinuavi perque\n\n## Virginitate illa puppe stamina\n\nLorem markdownum habebat erraverit cum eiectum vocesque, neve **generis** Ne\nCephisos. Stridore probas iudicium virides habendum cruor ascendunt et dolores\nnovat Editus, meo qua avem quoque et. Et te deorumus,\nvim dixit ramis Argos et *mihi tamen derat* concipit dedi venti **quo perde**!\nTene menti in contemptaque solis Italiae **bene Iuno** hunc sanguines, terrams.\n\n## A lactis amando se non ventris hac\n\nEcho qui nec! Ora domina preces est superba retro diva quo sonuit tenuisse tamen rorantesque Orontes mutilatae? A artus lumen. Petentia voce: montes gratamque ventrem ibat Famem *se* esse quantumque videre dentibus est. Excepto *captus* in nymphae, canos dolore spinea missae ab, qui vicit relaxant ruricolam\nsanguine *tumidum*.\n\n## Optima equo tellus malas colore\n\nPerdite mox deos pectora radice imagine curvamine civilibus aegre quibus secus,\ncausam arguis si? Supra domas credit, parte cornigeris, exspectanda fetus\nLesbon, cladis.\n\nQuae centauri iacebat, tamen sic hamata atque tamen caelum! Non pro creverat, inane, de color\nfelixque telae, sceleratae. Felix tenet longo tulit, et nectaris quoque loquetur\niurantem odorato; at mihi, aquis.\n\nDimittit patriae, est fessis, dulces altis. Illic erat unus meliore corpus\nvallis Telamonque certa clausit. Protectus titubantem formae minorem et Nyseides\nheros vitare urbis bis praeterque caelo, ipse atque orbem **et** stabulorum in\nhabebat. Et nascentia ore filia vetustae es semel lucos restabat ne."
+        },
+        {
+          "$id": "1NLPjTOSQcWiQy44YgaCQ4",
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hes48hb68fw8"
+              }
+            },
+            "id": "1NLPjTOSQcWiQy44YgaCQ4",
+            "type": "Entry",
+            "createdAt": "2017-12-14T06:11:09.906Z",
+            "updatedAt": "2018-01-13T16:38:00.553Z",
+            "revision": 4,
+            "contentType": {
+              "sys": {
+                "type": "Link",
+                "linkType": "ContentType",
+                "id": "informationPage"
+              }
+            },
+            "locale": "sv-SE"
+          },
+          "heading": "Precis flyttat in?",
+          "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+          "backgroundImage": {
+            "$id": "3KWiEdpMt2AAcKoESIw80a",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "3KWiEdpMt2AAcKoESIw80a",
+              "type": "Asset",
+              "createdAt": "2017-12-14T06:10:48.807Z",
+              "updatedAt": "2017-12-14T06:10:48.807Z",
+              "revision": 1,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Moved In",
+              "description": "Just moved in",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/3KWiEdpMt2AAcKoESIw80a/fd8d14764a49723590b9fdf25e99b7d3/movedIn.jpg",
+                "details": {
+                  "size": 94160,
+                  "image": {
+                    "width": 1920,
+                    "height": 400
+                  }
+                },
+                "fileName": "movedIn.jpg",
+                "contentType": "image/jpeg"
+              }
+            }
+          },
+          "icon": {
+            "$id": "n98kTa1EL6cYkA426cCoA",
+            "sys": {
+              "space": {
+                "sys": {
+                  "type": "Link",
+                  "linkType": "Space",
+                  "id": "hes48hb68fw8"
+                }
+              },
+              "id": "n98kTa1EL6cYkA426cCoA",
+              "type": "Asset",
+              "createdAt": "2017-12-14T06:09:50.485Z",
+              "updatedAt": "2018-01-13T16:37:28.613Z",
+              "revision": 2,
+              "locale": "sv-SE"
+            },
+            "fields": {
+              "title": "Icon moved in",
+              "description": "Moved in",
+              "file": {
+                "url": "//images.contentful.com/hes48hb68fw8/n98kTa1EL6cYkA426cCoA/0664fc32398aea75e148e81f3633fa22/nyinflyttad_color.svg",
+                "details": {
+                  "size": 1036,
+                  "image": {
+                    "width": 37,
+                    "height": 37
+                  }
+                },
+                "fileName": "nyinflyttad_color.svg",
+                "contentType": "image/svg+xml"
+              }
+            }
+          },
+          "shortDescription": "Lorem markdownum aeriaeque tristis hactenus inmemores et ante Castalio.",
+          "text": "# Stagno tauro insanaque non praestant recepi hostibus\n\n## Virtute auras timemus complexa perterrita vita amictu\n\nLorem markdownum aeriaeque tristis hactenus inmemores et ante Castalio, **ipse\natria** praeteriit formam, mea. Inmemor tecta prosunt **cavari periture** de\nmeorum saucius agmine resistunt quoque possunt. Adpositas deiecto Pelasgi; cui\nvitam cupidine, huius ociuso.\n\nSine leves praetemptat fruge. Quirino per ita aquarum donec, aurea intres mihi\nnil: visus. Iter [in quam](http://colunt.com/rupem) summos erat maculat, nec\nfruges etiamnum nocens, huc.\n\n## Mora est ferarum seque meriti revirescere\n\nUtque medullis habere confiteor Veneris una Cynthi socio soli sacrasque possidet\ntorpetis Cecropidae. Flumina leonem certare minimum possim virginibus dona,\ntegebat principium Amenanus omnesque mihi fessa pariterque saepe. [Quidem Circe\narces](http://www.lami.org/invictumque.html) cetera, turbaeque ubere, Pegasus?\nParte torum maior, in Calydona forsitan crinis volandi, iuvenis refugerit ad\nscit inque.\n\n> Instrumenta inpius excutis praedam. Imitata tuos, in quae hic pater *orba*, de\n> talis superest rogat. Sceptri fatentis: aequales vocem portasque coniunx\n> **premit**, augendo **tenebat liquefacta** velamina buxoque Inachides cervum,\n> condit que. Sed scopulo, Neritius se moriens artus humo semina e magnum nam\n> detur corpus.\n\nIam tamen populari triste saevitiae ingemuit quia Hibero Hesperidas sororis\n**freta audita** moventem ire a quamquam palmas aliquid sumptis. Vocantem\nsparsas dentes. Inridet ut nostris infelix colit sternitur, duasque Elin\nopesque, ruitis nisi squamosos tandem tanget, est!\n\n## Malo quos aut tecumque\n\nE tantum easdem torum amissamque niteant, excuteret [solet\net](http://sublimis.io/servato) sine dorso: summa retinet tantaque nocebit huic\nuna. Superiniecit [fugit](http://et.org/), non lugendae abstraxit **suis natos**\nrepulsam nec Pasiphaen, optata morbo sit cognovi. Trepido terra.\n\nCadunt obstem vincis ab dea poteremur mandata adhuc, non Berecyntius. Minimo\n**Emathiique Delphos Capitolia** sua: forte est tangit puellari et. Visa\n[videri](http://www.summaqueannis.org/symplegadas-ea.html), et deus, vidit\nsatiata solutum rupem rubentem?\n\n1. Sit illa lentosque forma\n2. Quem alit ultima\n3. Ara stare quoque vultu est turget quorum\n4. Geminata quod nocent radiataque ad dolorem inplent\n\nHarpen summa, omnia tutela. Amphiona causam Piraeaque adstricta. Est ille manes\nPhoebus aequoris quod hoc, fuit *quae*. Mei paulatim poscor? Cautes promptas,\nquinquennia fuere cuspide **robora**, ministri, quam umeris tacitorum dubitant\ncaede."
+        }
+      ],
+      "slideshow": [
+        {
+          "$id": "2T1DO7cLW8Y2SegQieY0sm",
+          "sys": {
+            "space": {
+              "sys": {
+                "type": "Link",
+                "linkType": "Space",
+                "id": "hes48hb68fw8"
+              }
+            },
+            "id": "2T1DO7cLW8Y2SegQieY0sm",
+            "type": "Asset",
+            "createdAt": "2017-12-17T21:11:18.06Z",
+            "updatedAt": "2017-12-17T21:11:18.06Z",
+            "revision": 1,
+            "locale": "sv-SE"
+          },
+          "fields": {
+            "title": "Resarö",
+            "description": "Resarö",
+            "file": {
+              "url": "//images.contentful.com/hes48hb68fw8/2T1DO7cLW8Y2SegQieY0sm/d5f22d9a082d4599c3bd0a4345f90d0a/resaro_1920x1080.jpg",
+              "details": {
+                "size": 382768,
+                "image": {
+                  "width": 1920,
+                  "height": 1080
+                }
+              },
+              "fileName": "resaro_1920x1080.jpg",
+              "contentType": "image/jpeg"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "5dYY24VuVqEsOeiyWMcwoS",
+        "type": "Entry",
+        "createdAt": "2017-12-14T17:00:03.462Z",
+        "updatedAt": "2018-01-13T16:35:39.901Z",
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Vår utemiljö",
+      "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+      "backgroundImage": { "$ref": "3YvYyIjVoA46oGUmQogKiS" },
+      "icon": { "$ref": "1lgW46m3yUyY8uSmiIak8U" },
+      "shortDescription": "Lorem markdownum dumque invocat, eversam visa est dea Cadme aristis.",
+      "text": "# Tum fervida patria\n\n## Saevit potestas venatu semimari fornace aristis\n\nLorem markdownum dumque invocat, eversam visa est dea Cadme aristis! *Terram me\nnam* dat est a fera Peneide me bella, mutilatae; postarum! Aves dum apri\nmontibus dubitas pavetque exercet ad unus temptat capillis nectare videt\nrelanguit toros furorem querenti abigitque, tergum. Nunc es idcirco Scythicis in\npares agmenque et iacet dat Nox. Sint referunt stirpe egit caerula; partibus\nsubiere munere et portabat mirabile ante ensis vocisque superest nemus\ndefenditur toroques?\n\nIactat respexit dentes tamen mundi, hic *dixit imber* mihi **leto** Lethes aera\naeno ignorant sed, linguaque. Retentos *est quondam pharetras*; domum fuit eadem\n*rarior* solidis, aquilonibus ergo? Et illis bimatrem, tegens in murmura\n**silvas tenuata**; ero suus iaculo petit animus utrumque si.\n\n## Post uno\n\nPuerique refert nec non aut velamina ultima dabat. Petisses diu ultima superbus\nconcita secuta laborum lugubriaque deae, supersint. Plenaque amor; tua illa\nsacra.\n\nPectora onus restantem quae detegit percaluit et fulmina invitusque, senectae\nEuagrum cupiens. Domus cupiens guttura excussum non vimque locutum adplauso\nfallit angues. Virgine neve, una nec undas temptamenta luget causaque adductaque\ntegumenque et pectora sonuere in pavent [parte](http://vobisquid.io/et.html),\nsilvamque, praecipue. Saevior infelix recessu non: suo volat erat; qui tua\npugnando aera; hos quantam inque! Squalentia nec vix ipsaque caput, nigrescere\nconata **radios** pulvereumque crura in hinc exacta pallentia mundi et.\n\n> Quique et est, addita dicta mollita lacertis lacerta nec. Nisi miratur terras!\n> Stramine pater Proximus tam manus ad quaesitique Rutulum sparsisque efficiet\n> Elide socium patrumque **sic capillis pectora** haesissem stagni! *Pavor\n> similisque* casus fontemque tollens *sedit*, in iramque barba cape,\n> **titubantis locus**.\n\n## Hirsuta ora conquesti rediit et successu populo\n\nSolent in diversa seque! Cum sit fuerit, *rictus dextera*. Ipsa nam auratam currum posse, ait adire devexo tibi?\n\n- Fletibus viro posuere\n- Potest poena fiunt imago fecit mulcebat falsae\n- Et sibi\n- Facitote superi\n\nIn urget habebant deos; siccis pondus Ligdo limumque caput amnis, esse erat\nantistita simulacraque velox potui. Vultus indagine bellum cucurri adspicit,\nexplorat dabimus aer tenera etsi femur, in et. Ille sed cornibus dixit carmine,\net! Ulli *addidit una bellum*, haustus arces, *flore aeraque* fluvialis Cyane\nsubiectos licet. Sit est una superum ramos subterque rerum *patrumque mihi*\nAmphiona."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "bMOfEDVJnicGOaU6Cy204",
+        "type": "Entry",
+        "createdAt": "2018-01-13T15:56:54.591Z",
+        "updatedAt": "2018-01-13T15:56:54.591Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Sven Göran Rundlöf",
+      "responsibility": "Suppleant",
+      "email": "info@brflojvik.se",
+      "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "3N6kqhWtC0aw2MecmWKeom",
+        "type": "Entry",
+        "createdAt": "2017-10-20T07:07:41.449Z",
+        "updatedAt": "2017-10-20T07:07:41.449Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "parentPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Om föreningen"
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "4imDWU24QEWcGe88ooOqq8",
+        "type": "Entry",
+        "createdAt": "2017-12-14T06:08:33.271Z",
+        "updatedAt": "2018-01-13T16:38:55.811Z",
+        "revision": 8,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Sopor och återvinning",
+      "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+      "backgroundImage": { "$ref": "4O2n5at0ecksAQWSy6EI6I" },
+      "icon": { "$ref": "5PwcTNyLGoMmeqSggeQyEY" },
+      "shortDescription": "Lorem markdownum habebat erraverit cum eiectum vocesque, neve generis ne.",
+      "text": "# Vela venae Medea circumfunditur occupat sinuavi perque\n\n## Virginitate illa puppe stamina\n\nLorem markdownum habebat erraverit cum eiectum vocesque, neve **generis** Ne\nCephisos. Stridore probas iudicium virides habendum cruor ascendunt et dolores\nnovat Editus, meo qua avem quoque et. Et te deorumus,\nvim dixit ramis Argos et *mihi tamen derat* concipit dedi venti **quo perde**!\nTene menti in contemptaque solis Italiae **bene Iuno** hunc sanguines, terrams.\n\n## A lactis amando se non ventris hac\n\nEcho qui nec! Ora domina preces est superba retro diva quo sonuit tenuisse tamen rorantesque Orontes mutilatae? A artus lumen. Petentia voce: montes gratamque ventrem ibat Famem *se* esse quantumque videre dentibus est. Excepto *captus* in nymphae, canos dolore spinea missae ab, qui vicit relaxant ruricolam\nsanguine *tumidum*.\n\n## Optima equo tellus malas colore\n\nPerdite mox deos pectora radice imagine curvamine civilibus aegre quibus secus,\ncausam arguis si? Supra domas credit, parte cornigeris, exspectanda fetus\nLesbon, cladis.\n\nQuae centauri iacebat, tamen sic hamata atque tamen caelum! Non pro creverat, inane, de color\nfelixque telae, sceleratae. Felix tenet longo tulit, et nectaris quoque loquetur\niurantem odorato; at mihi, aquis.\n\nDimittit patriae, est fessis, dulces altis. Illic erat unus meliore corpus\nvallis Telamonque certa clausit. Protectus titubantem formae minorem et Nyseides\nheros vitare urbis bis praeterque caelo, ipse atque orbem **et** stabulorum in\nhabebat. Et nascentia ore filia vetustae es semel lucos restabat ne."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "w8OJzNBVugwWWgMmWwGom",
+        "type": "Entry",
+        "createdAt": "2017-10-24T04:44:38.324Z",
+        "updatedAt": "2017-11-16T14:50:27.487Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Historik",
+      "parentPage": { "$ref": "3N6kqhWtC0aw2MecmWKeom" },
+      "text": "Föreningen skapades år..."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "Bm3STswbNmKwYK6KgGacs",
+        "type": "Entry",
+        "createdAt": "2018-01-15T05:52:03.533Z",
+        "updatedAt": "2018-01-15T05:52:03.533Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "searchPageNote"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Byggavfall",
+      "description": "Aliquam mollis, metus interdum iaculis tincidunt, risus lorem congue nibh, vel molestie eros dui vel dui. Vivamus quam arcu, lobortis sed tellus id, tincidunt lacinia nulla. Etiam maximus sollicitudin nulla, eget porttitor eros varius a. Nam eu aliquam nunc. Morbi quis ullamcorper turpis, at tempor nisi. "
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "69urg7MTv2g64uEYEeKGuk",
+        "type": "Entry",
+        "createdAt": "2018-01-15T05:51:31.466Z",
+        "updatedAt": "2018-01-15T05:51:31.466Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "searchPageNote"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Altan",
+      "description": "Quisque posuere rutrum nulla, sed sollicitudin lorem laoreet eget. Morbi ut euismod eros. Sed laoreet iaculis nisi, eu ullamcorper dui maximus id. Nulla congue tincidunt elit ut placerat. "
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "4QaxcF6mJOo2gUyYeYA2i8",
+        "type": "Entry",
+        "createdAt": "2018-01-15T05:52:59.391Z",
+        "updatedAt": "2018-01-15T05:52:59.391Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "searchPageNote"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Fiber",
+      "description": "Curabitur sollicitudin quis tortor non porttitor. Donec porta convallis massa quis faucibus. Vestibulum feugiat velit quis felis vehicula elementum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus tincidunt tempus erat, sed mollis ipsum volutpat quis."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1VnwxcHXbKoAUYq6i4u4iM",
+        "type": "Entry",
+        "createdAt": "2017-10-24T04:45:31.092Z",
+        "updatedAt": "2017-11-16T14:52:31.626Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Årsredovisningar",
+      "parentPage": { "$ref": "3N6kqhWtC0aw2MecmWKeom" },
+      "text": "Lista med årsredovisningar.\n"
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "Q6FuPfe7cqiGW6Eo0Goa8",
+        "type": "Entry",
+        "createdAt": "2017-12-09T20:41:24.861Z",
+        "updatedAt": "2017-12-09T20:41:30.942Z",
+        "revision": 2,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "event"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Höststädning 2017",
+      "date": "2017-10-21T00:00+01:00",
+      "description": "Sed semper velit vitae scelerisque feugiat. Aliquam erat volutpat. Maecenas felis metus, commodo et quam ut, egestas luctus mauris. Sed accumsan arcu eu dolor euismod, et auctor nisi commodo. Cras nec mauris eget sem bibendum pellentesque. Quisque ornare viverra enim ut iaculis. \n\nPraesent suscipit, lorem quis euismod imperdiet, ex mauris vehicula magna, id laoreet erat felis id orci. Praesent ac purus nec nunc dignissim hendrerit eget accumsan nisi. Donec mollis justo venenatis lectus posuere consequat. Donec ac ultrices sem. Vestibulum et augue odio. Phasellus hendrerit nunc ac aliquet tincidunt. Maecenas lacus tellus, elementum nec lorem a, aliquam finibus justo."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "POPLZaKseqQ8oWeIsCUgI",
+        "type": "Entry",
+        "createdAt": "2017-12-03T20:44:02.621Z",
+        "updatedAt": "2017-12-03T20:44:02.621Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Maria Sundström",
+      "responsibility": "Markansvarig",
+      "email": "info@brflojvik.se",
+      "photo": { "$ref": "m8LF6Kkfv2e2UuiwGw0mU" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1SpvZu3ouU42yAeWQ2gsyc",
+        "type": "Entry",
+        "createdAt": "2018-01-13T15:56:23.965Z",
+        "updatedAt": "2018-01-13T15:56:23.966Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMember"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "name": "Magnus Ivar Nordbäck",
+      "responsibility": "Suppleant",
+      "email": "info@brflojvik.se",
+      "photo": { "$ref": "1mBy7T9ZfiuycEKMGe0M2m" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1NLPjTOSQcWiQy44YgaCQ4",
+        "type": "Entry",
+        "createdAt": "2017-12-14T06:11:09.906Z",
+        "updatedAt": "2018-01-13T16:38:00.553Z",
+        "revision": 4,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "informationPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Precis flyttat in?",
+      "parentPage": { "$ref": "1wPyBpvSSs06A0Q8weY2O8" },
+      "backgroundImage": { "$ref": "3KWiEdpMt2AAcKoESIw80a" },
+      "icon": { "$ref": "n98kTa1EL6cYkA426cCoA" },
+      "shortDescription": "Lorem markdownum aeriaeque tristis hactenus inmemores et ante Castalio.",
+      "text": "# Stagno tauro insanaque non praestant recepi hostibus\n\n## Virtute auras timemus complexa perterrita vita amictu\n\nLorem markdownum aeriaeque tristis hactenus inmemores et ante Castalio, **ipse\natria** praeteriit formam, mea. Inmemor tecta prosunt **cavari periture** de\nmeorum saucius agmine resistunt quoque possunt. Adpositas deiecto Pelasgi; cui\nvitam cupidine, huius ociuso.\n\nSine leves praetemptat fruge. Quirino per ita aquarum donec, aurea intres mihi\nnil: visus. Iter [in quam](http://colunt.com/rupem) summos erat maculat, nec\nfruges etiamnum nocens, huc.\n\n## Mora est ferarum seque meriti revirescere\n\nUtque medullis habere confiteor Veneris una Cynthi socio soli sacrasque possidet\ntorpetis Cecropidae. Flumina leonem certare minimum possim virginibus dona,\ntegebat principium Amenanus omnesque mihi fessa pariterque saepe. [Quidem Circe\narces](http://www.lami.org/invictumque.html) cetera, turbaeque ubere, Pegasus?\nParte torum maior, in Calydona forsitan crinis volandi, iuvenis refugerit ad\nscit inque.\n\n> Instrumenta inpius excutis praedam. Imitata tuos, in quae hic pater *orba*, de\n> talis superest rogat. Sceptri fatentis: aequales vocem portasque coniunx\n> **premit**, augendo **tenebat liquefacta** velamina buxoque Inachides cervum,\n> condit que. Sed scopulo, Neritius se moriens artus humo semina e magnum nam\n> detur corpus.\n\nIam tamen populari triste saevitiae ingemuit quia Hibero Hesperidas sororis\n**freta audita** moventem ire a quamquam palmas aliquid sumptis. Vocantem\nsparsas dentes. Inridet ut nostris infelix colit sternitur, duasque Elin\nopesque, ruitis nisi squamosos tandem tanget, est!\n\n## Malo quos aut tecumque\n\nE tantum easdem torum amissamque niteant, excuteret [solet\net](http://sublimis.io/servato) sine dorso: summa retinet tantaque nocebit huic\nuna. Superiniecit [fugit](http://et.org/), non lugendae abstraxit **suis natos**\nrepulsam nec Pasiphaen, optata morbo sit cognovi. Trepido terra.\n\nCadunt obstem vincis ab dea poteremur mandata adhuc, non Berecyntius. Minimo\n**Emathiique Delphos Capitolia** sua: forte est tangit puellari et. Visa\n[videri](http://www.summaqueannis.org/symplegadas-ea.html), et deus, vidit\nsatiata solutum rupem rubentem?\n\n1. Sit illa lentosque forma\n2. Quem alit ultima\n3. Ara stare quoque vultu est turget quorum\n4. Geminata quod nocent radiataque ad dolorem inplent\n\nHarpen summa, omnia tutela. Amphiona causam Piraeaque adstricta. Est ille manes\nPhoebus aequoris quod hoc, fuit *quae*. Mei paulatim poscor? Cautes promptas,\nquinquennia fuere cuspide **robora**, ministri, quam umeris tacitorum dubitant\ncaede."
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "4LUauliDk4K0seMwEWMICs",
+        "type": "Entry",
+        "createdAt": "2017-12-02T21:47:49.8Z",
+        "updatedAt": "2018-01-13T22:12:35.826Z",
+        "revision": 8,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "boardMembers"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Styrelsen",
+      "redSubHeading": "2017/2018",
+      "text": "Bostadsrättsföreningens styrelse utses av årsstämman. Vill du kontakta styrelsen gör du det bäst genom\natt mejla direkt till den styrelseledamot som ansvarar för det du har frågor kring. Det går också bra att klicka\npå länken ”Kontakta styrelsen” i sidhuvudet så kan du skicka in din fråga direkt via hemsidan.",
+      "activeBoardMembers": [
+        { "$ref": "4ikBqovWHmugW4a6uEu4EU" },
+        { "$ref": "4ymPfpJ62IcEyyM2WeiyKa" },
+        { "$ref": "POPLZaKseqQ8oWeIsCUgI" },
+        { "$ref": "7knsvPDozeS6YscKmGcckK" },
+        { "$ref": "1AvuG9ZDmE0mEQ2OAQ2qWE" },
+        { "$ref": "1SpvZu3ouU42yAeWQ2gsyc" },
+        { "$ref": "bMOfEDVJnicGOaU6Cy204" }
+      ],
+      "parentPage": { "$ref": "3N6kqhWtC0aw2MecmWKeom" }
+    },
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "hes48hb68fw8"
+          }
+        },
+        "id": "1wPyBpvSSs06A0Q8weY2O8",
+        "type": "Entry",
+        "createdAt": "2017-10-20T07:08:01.877Z",
+        "updatedAt": "2017-10-20T07:08:01.877Z",
+        "revision": 1,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "parentPage"
+          }
+        },
+        "locale": "sv-SE"
+      },
+      "heading": "Att bo i Löjvik"
+    }
+  ],
+  "includedEntries": [],
+  "includedAssets": [
+    {
+      "sys": {
+        "id": "11X88PDuPEyQkEGq0WOYE4",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-02T21:21:54.097Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-02T21:21:54.097Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": null,
+      "title": "För mäklare bakgrundsbild",
+      "file": {
+        "fileName": "AZ-homes.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/11X88PDuPEyQkEGq0WOYE4/ff7d35258219755c3a477020c55de98b/AZ-homes.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 207222,
+          "image": {
+            "height": 400,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "För mäklare bakgrundsbild" },
+      "descriptionLocalized": { "sv-SE": null },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "AZ-homes.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/11X88PDuPEyQkEGq0WOYE4/ff7d35258219755c3a477020c55de98b/AZ-homes.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 207222,
+            "image": {
+              "height": 400,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1aP5zQ9hzWwkQk88mi6W4s",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-11-22T18:44:20.633Z",
+        "createdBy": null,
+        "updatedAt": "2017-11-22T18:44:20.633Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": null,
+      "title": "Skärgård",
+      "file": {
+        "fileName": "riga.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/1aP5zQ9hzWwkQk88mi6W4s/50601d7abea057e30fc256a51a801b4e/riga.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 231772,
+          "image": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Skärgård" },
+      "descriptionLocalized": { "sv-SE": null },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "riga.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/1aP5zQ9hzWwkQk88mi6W4s/50601d7abea057e30fc256a51a801b4e/riga.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 231772,
+            "image": {
+              "height": 1080,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1lgW46m3yUyY8uSmiIak8U",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 2,
+        "version": null,
+        "createdAt": "2017-12-14T16:57:24.801Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T16:34:08.499Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Outside icon",
+      "title": "Outside icon",
+      "file": {
+        "fileName": "utemiljo_color.svg",
+        "contentType": "image/svg+xml",
+        "url": "//images.contentful.com/hes48hb68fw8/1lgW46m3yUyY8uSmiIak8U/32a2ad2b202f51d99a93ed8580a7697d/utemiljo_color.svg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 1746,
+          "image": {
+            "height": 37,
+            "width": 37
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Outside icon" },
+      "descriptionLocalized": { "sv-SE": "Outside icon" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "utemiljo_color.svg",
+          "contentType": "image/svg+xml",
+          "url": "//images.contentful.com/hes48hb68fw8/1lgW46m3yUyY8uSmiIak8U/32a2ad2b202f51d99a93ed8580a7697d/utemiljo_color.svg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 1746,
+            "image": {
+              "height": 37,
+              "width": 37
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "1mBy7T9ZfiuycEKMGe0M2m",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 3,
+        "version": null,
+        "createdAt": "2017-12-03T20:30:55.026Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T22:02:03.714Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": null,
+      "title": "Profile Placeholder Male",
+      "file": {
+        "fileName": "profilePlaceholderMale.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/1mBy7T9ZfiuycEKMGe0M2m/97064e50fa0d2c1ddfe139e4c360369f/profilePlaceholderMale.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 31447,
+          "image": {
+            "height": 600,
+            "width": 600
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Profile Placeholder Male" },
+      "descriptionLocalized": { "sv-SE": null },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "profilePlaceholderMale.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/1mBy7T9ZfiuycEKMGe0M2m/97064e50fa0d2c1ddfe139e4c360369f/profilePlaceholderMale.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 31447,
+            "image": {
+              "height": 600,
+              "width": 600
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2T1DO7cLW8Y2SegQieY0sm",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-17T21:11:18.06Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-17T21:11:18.06Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Resarö",
+      "title": "Resarö",
+      "file": {
+        "fileName": "resaro_1920x1080.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/2T1DO7cLW8Y2SegQieY0sm/d5f22d9a082d4599c3bd0a4345f90d0a/resaro_1920x1080.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 382768,
+          "image": {
+            "height": 1080,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Resarö" },
+      "descriptionLocalized": { "sv-SE": "Resarö" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "resaro_1920x1080.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/2T1DO7cLW8Y2SegQieY0sm/d5f22d9a082d4599c3bd0a4345f90d0a/resaro_1920x1080.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 382768,
+            "image": {
+              "height": 1080,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "2b7FBJsMfCMOgcoGsICIa0",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-07T20:05:58.431Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-07T20:05:58.432Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "profile",
+      "title": "William Bergqvist",
+      "file": {
+        "fileName": "William Bergqvist._600x600jpg.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/2b7FBJsMfCMOgcoGsICIa0/fa4cefc6ab1e70a0c9bac1b7bd259a91/William_Bergqvist._600x600jpg.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 215976,
+          "image": {
+            "height": 600,
+            "width": 600
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "William Bergqvist" },
+      "descriptionLocalized": { "sv-SE": "profile" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "William Bergqvist._600x600jpg.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/2b7FBJsMfCMOgcoGsICIa0/fa4cefc6ab1e70a0c9bac1b7bd259a91/William_Bergqvist._600x600jpg.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 215976,
+            "image": {
+              "height": 600,
+              "width": 600
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3KWiEdpMt2AAcKoESIw80a",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-14T06:10:48.807Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-14T06:10:48.807Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Just moved in",
+      "title": "Moved In",
+      "file": {
+        "fileName": "movedIn.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/3KWiEdpMt2AAcKoESIw80a/fd8d14764a49723590b9fdf25e99b7d3/movedIn.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 94160,
+          "image": {
+            "height": 400,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Moved In" },
+      "descriptionLocalized": { "sv-SE": "Just moved in" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "movedIn.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/3KWiEdpMt2AAcKoESIw80a/fd8d14764a49723590b9fdf25e99b7d3/movedIn.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 94160,
+            "image": {
+              "height": 400,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3YvYyIjVoA46oGUmQogKiS",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-14T16:53:46.2Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-14T16:53:46.2Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Outdoors",
+      "title": "Outdoors",
+      "file": {
+        "fileName": "outdoors.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/3YvYyIjVoA46oGUmQogKiS/e4d2357c3245caf348c6dbf9cac34f94/outdoors.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 410606,
+          "image": {
+            "height": 400,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Outdoors" },
+      "descriptionLocalized": { "sv-SE": "Outdoors" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "outdoors.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/3YvYyIjVoA46oGUmQogKiS/e4d2357c3245caf348c6dbf9cac34f94/outdoors.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 410606,
+            "image": {
+              "height": 400,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3sY7HLtV720A2WyKwMAuUE",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-14T06:02:43.169Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-14T06:02:43.169Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Parking garage",
+      "title": "Parking garage",
+      "file": {
+        "fileName": "parking_garage.png",
+        "contentType": "image/png",
+        "url": "//images.contentful.com/hes48hb68fw8/3sY7HLtV720A2WyKwMAuUE/e6dc0471838f661b184c6ebc54610d22/parking_garage.png",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 802675,
+          "image": {
+            "height": 400,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Parking garage" },
+      "descriptionLocalized": { "sv-SE": "Parking garage" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "parking_garage.png",
+          "contentType": "image/png",
+          "url": "//images.contentful.com/hes48hb68fw8/3sY7HLtV720A2WyKwMAuUE/e6dc0471838f661b184c6ebc54610d22/parking_garage.png",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 802675,
+            "image": {
+              "height": 400,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "3wCUq7qDS8MsKGeEsqoUCo",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 2,
+        "version": null,
+        "createdAt": "2017-10-20T07:10:28.387Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T16:39:34.206Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": null,
+      "title": "Parking Icon",
+      "file": {
+        "fileName": "parkering_color.svg",
+        "contentType": "image/svg+xml",
+        "url": "//images.contentful.com/hes48hb68fw8/3wCUq7qDS8MsKGeEsqoUCo/8b147c38264835c11317beb6fee20f21/parkering_color.svg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 1340,
+          "image": {
+            "height": 37,
+            "width": 37
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Parking Icon" },
+      "descriptionLocalized": { "sv-SE": null },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "parkering_color.svg",
+          "contentType": "image/svg+xml",
+          "url": "//images.contentful.com/hes48hb68fw8/3wCUq7qDS8MsKGeEsqoUCo/8b147c38264835c11317beb6fee20f21/parkering_color.svg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 1340,
+            "image": {
+              "height": 37,
+              "width": 37
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "4O2n5at0ecksAQWSy6EI6I",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 1,
+        "version": null,
+        "createdAt": "2017-12-14T06:06:23.83Z",
+        "createdBy": null,
+        "updatedAt": "2017-12-14T06:06:23.83Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Recycling",
+      "title": "Recycling",
+      "file": {
+        "fileName": "recycling.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/4O2n5at0ecksAQWSy6EI6I/d8f1b3c7f54aa80ce83193d4698fec55/recycling.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 268128,
+          "image": {
+            "height": 400,
+            "width": 1920
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Recycling" },
+      "descriptionLocalized": { "sv-SE": "Recycling" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "recycling.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/4O2n5at0ecksAQWSy6EI6I/d8f1b3c7f54aa80ce83193d4698fec55/recycling.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 268128,
+            "image": {
+              "height": 400,
+              "width": 1920
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "5PwcTNyLGoMmeqSggeQyEY",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 2,
+        "version": null,
+        "createdAt": "2017-12-14T06:07:57.368Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T16:38:40.705Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Garbage",
+      "title": "Garbage icon",
+      "file": {
+        "fileName": "sopor_color.svg",
+        "contentType": "image/svg+xml",
+        "url": "//images.contentful.com/hes48hb68fw8/5PwcTNyLGoMmeqSggeQyEY/1b37b85b1cf06d45dd1ea27e6de4eac5/sopor_color.svg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 858,
+          "image": {
+            "height": 37,
+            "width": 37
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Garbage icon" },
+      "descriptionLocalized": { "sv-SE": "Garbage" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "sopor_color.svg",
+          "contentType": "image/svg+xml",
+          "url": "//images.contentful.com/hes48hb68fw8/5PwcTNyLGoMmeqSggeQyEY/1b37b85b1cf06d45dd1ea27e6de4eac5/sopor_color.svg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 858,
+            "image": {
+              "height": 37,
+              "width": 37
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "m8LF6Kkfv2e2UuiwGw0mU",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 2,
+        "version": null,
+        "createdAt": "2017-12-03T20:43:52.728Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T22:01:57.051Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": null,
+      "title": "Profile Placeholder Female",
+      "file": {
+        "fileName": "profilePlaceholderFemale.jpg",
+        "contentType": "image/jpeg",
+        "url": "//images.contentful.com/hes48hb68fw8/m8LF6Kkfv2e2UuiwGw0mU/532ee048bd5b3b56df1acb147a8e0a42/profilePlaceholderFemale.jpg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 17268,
+          "image": {
+            "height": 600,
+            "width": 600
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Profile Placeholder Female" },
+      "descriptionLocalized": { "sv-SE": null },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "profilePlaceholderFemale.jpg",
+          "contentType": "image/jpeg",
+          "url": "//images.contentful.com/hes48hb68fw8/m8LF6Kkfv2e2UuiwGw0mU/532ee048bd5b3b56df1acb147a8e0a42/profilePlaceholderFemale.jpg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 17268,
+            "image": {
+              "height": 600,
+              "width": 600
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": {
+        "id": "n98kTa1EL6cYkA426cCoA",
+        "linkType": null,
+        "type": "Asset",
+        "revision": 2,
+        "version": null,
+        "createdAt": "2017-12-14T06:09:50.485Z",
+        "createdBy": null,
+        "updatedAt": "2018-01-13T16:37:28.613Z",
+        "updatedBy": null,
+        "deletedAt": null,
+        "locale": "sv-SE",
+        "contentType": null,
+        "space": {
+          "sys": {
+            "id": "hes48hb68fw8",
+            "linkType": "Space",
+            "type": "Link",
+            "revision": null,
+            "version": null,
+            "createdAt": null,
+            "createdBy": null,
+            "updatedAt": null,
+            "updatedBy": null,
+            "deletedAt": null,
+            "locale": null,
+            "contentType": null,
+            "space": null,
+            "publishedCounter": null,
+            "publishedVersion": null,
+            "publishedBy": null,
+            "publishCounter": null,
+            "firstPublishedAt": null,
+            "archivedAt": null,
+            "archivedVersion": null,
+            "archivedBy": null
+          },
+          "name": null,
+          "locales": null
+        },
+        "publishedCounter": null,
+        "publishedVersion": null,
+        "publishedBy": null,
+        "publishCounter": null,
+        "firstPublishedAt": null,
+        "archivedAt": null,
+        "archivedVersion": null,
+        "archivedBy": null
+      },
+      "description": "Moved in",
+      "title": "Icon moved in",
+      "file": {
+        "fileName": "nyinflyttad_color.svg",
+        "contentType": "image/svg+xml",
+        "url": "//images.contentful.com/hes48hb68fw8/n98kTa1EL6cYkA426cCoA/0664fc32398aea75e148e81f3633fa22/nyinflyttad_color.svg",
+        "upload": null,
+        "uploadFrom": null,
+        "details": {
+          "size": 1036,
+          "image": {
+            "height": 37,
+            "width": 37
+          }
+        }
+      },
+      "titleLocalized": { "sv-SE": "Icon moved in" },
+      "descriptionLocalized": { "sv-SE": "Moved in" },
+      "filesLocalized": {
+        "sv-SE": {
+          "fileName": "nyinflyttad_color.svg",
+          "contentType": "image/svg+xml",
+          "url": "//images.contentful.com/hes48hb68fw8/n98kTa1EL6cYkA426cCoA/0664fc32398aea75e148e81f3633fa22/nyinflyttad_color.svg",
+          "upload": null,
+          "uploadFrom": null,
+          "details": {
+            "size": 1036,
+            "image": {
+              "height": 37,
+              "width": 37
+            }
+          }
+        }
+      }
+    }
+  ],
+  "errors": null
+}
